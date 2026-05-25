@@ -14,7 +14,7 @@ Background: BA Fine Arts · MSc AI & Audiovisual Communication · RTVE Institute
 
 - **Behavioral Audit of Generative AI Models** — 8 empirical field observations on GPT, DALL-E, MidJourney, VEO.3 and RLHF sycophancy patterns. [Zenodo 2026](https://doi.org/10.5281/zenodo.19562421)
 
-- **3C+1E Bidirectional Reflexive Audit Protocol** — Open methodology for systematic evaluation of any human-AI co-creation session. Applicable to EU AI Act Article 9 risk management requirements. [Figshare 2026](https://doi.org/10.6084/m9.figshare.28892441)
+- **3C+1E Bidirectional Reflexive Audit Protocol** — Open methodology for systematic evaluation of any human-AI co-creation session. Applicable to EU AI Act Article 9 risk management requirements. [Figshare 2026](https://doi.org/10.6084/m9.figshare.32320875)
 
 ---
 
@@ -30,7 +30,7 @@ Background: BA Fine Arts · MSc AI & Audiovisual Communication · RTVE Institute
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/sarasanzherguedas) — Professional profile
-- [ORCID](https://orcid.org/0009-0003-3245-9932) — Research record
+- [ORCID](https://orcid.org/0009-0000-7610-6408) — Research record
 - [Substack](https://substack.com/@sasaher) — Field notes on generative AI & EU AI Act
 - [Zenodo](https://zenodo.org/records/19562421) — Behavioral audit publication
 - [Figshare](https://figshare.com/articles/preprint/3C_1E_Bidirectional_Reflexive_Audit_Protocol/32320875) — 3C+1E Protocol
